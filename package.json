@@ -1,23 +1,9 @@
 {
   "name": "example-multi-packages",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
-    "build": "lerna run build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "lerna run build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aguemat/example-multi-packages.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/aguemat/example-multi-packages/issues"
-  },
-  "homepage": "https://github.com/aguemat/example-multi-packages#readme",
   "devDependencies": {
     "lerna": "^3.22.1"
   }
