@@ -7,5 +7,6 @@
     "test": "node test/*.js"
   },
   "author": "aguemat",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "e223afc5bd70a7918a49f77d4b42e76445b92c3f"
 }
