@@ -1,0 +1,11 @@
+{
+  "name": "@aguemat/react-utils-components",
+  "version": "1.0.0-beta.1",
+  "description": "React Utils components",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/*.js"
+  },
+  "author": "aguemat",
+  "license": "MIT"
+}
