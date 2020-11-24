@@ -1,6 +1,6 @@
 {
   "name": "@aguemat/react-basic-components",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0",
   "description": "React basic components",
   "main": "index.js",
   "scripts": {
