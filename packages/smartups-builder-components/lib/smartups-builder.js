@@ -10,7 +10,7 @@ const { main, name } = require(path.join(currentWorkingPath, "package.json"));
 const inputPath = path.join(currentWorkingPath, main);
 
 // Little workaround to get package name without scope
-const fileName = name.replace("@cddev/", "");
+const fileName = name.replace("@aguemat/", "");
 
 // see below for details on the options
 const inputOptions = {

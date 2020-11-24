@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const ButtonStyled = styled.button`
   color: ${({ theme, themeStyle }) => theme.buttons[themeStyle].color};
