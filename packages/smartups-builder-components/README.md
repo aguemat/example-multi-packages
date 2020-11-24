@@ -1,11 +1,11 @@
-# `@aguerra/smartups-builder-components`
+# `@aguemat/smartups-builder-components`
 
 > TODO: description
 
 ## Usage
 
 ```
-const smartupsBuilderComponents = require('@aguerra/smartups-builder-components');
+const smartupsBuilderComponents = require('@aguemat/smartups-builder-components');
 
 // TODO: DEMONSTRATE API
 ```

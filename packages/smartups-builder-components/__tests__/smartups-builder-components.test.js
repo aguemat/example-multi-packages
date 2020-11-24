@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-const smartupsBuilderComponents = require('..');
+const smartupsBuilderComponents = require("..");
 
-describe('@aguerra/smartups-builder-components', () => {
-    it('needs tests');
+describe("@aguemat/smartups-builder-components", () => {
+  it("needs tests");
 });

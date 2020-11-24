@@ -1,5 +1,5 @@
 {
-  "name": "example-multi-packages",
+  "name": "aguemat",
   "private": false,
   "scripts": {
     "build": "lerna run build"

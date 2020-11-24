@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-const reactSmartupsUtilsComponents = require('..');
+const reactSmartupsUtilsComponents = require("..");
 
-describe('@aguerra/react-smartups-utils-components', () => {
-    it('needs tests');
+describe("@aguemat/react-smartups-utils-components", () => {
+  it("needs tests");
 });
