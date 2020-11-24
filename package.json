@@ -1,6 +1,6 @@
 {
   "name": "example-multi-packages",
-  "version": "1.0.0",
+  "private": false,
   "scripts": {
     "build": "lerna run build"
   },
