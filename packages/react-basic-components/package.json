@@ -11,5 +11,10 @@
   "gitHead": "c66498f9f1441d63b11519200c46359be60769b0",
   "publishConfig": {
     "access": "public"
+  },
+  "devDependencies": {
+    "prop-types": "^15.7.2",
+    "react": "16.13.1",
+    "styled-components": "^5.2.1"
   }
 }
