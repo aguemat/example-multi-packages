@@ -1,5 +1,9 @@
 {
+  "packages": ["packages/*"],
   "version": "independent",
-  "npmClient": "npm",
-  "packages": ["packages/*"]
+  "hoist": true,
+  "stream": true,
+  "bootstrap": {
+    "npmClientArgs": ["--no-package-lock"]
+  }
 }
