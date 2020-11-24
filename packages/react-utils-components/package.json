@@ -8,5 +8,8 @@
   },
   "author": "aguemat",
   "license": "MIT",
-  "gitHead": "e223afc5bd70a7918a49f77d4b42e76445b92c3f"
+  "gitHead": "c66498f9f1441d63b11519200c46359be60769b0",
+  "publishConfig": {
+    "access": "public"
+  }
 }
