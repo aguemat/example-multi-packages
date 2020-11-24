@@ -1,3 +1,3 @@
-const Button = require("./Button");
+const Button = require("./Button/index");
 
 export { Button };
