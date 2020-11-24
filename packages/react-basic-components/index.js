@@ -1,3 +1,4 @@
-import Button from "./components/Button";
-
-export { Button };
+const Button = require("./components/Button"); // and rewrite in Buttons.js
+module.exports = {
+  Button,
+};
